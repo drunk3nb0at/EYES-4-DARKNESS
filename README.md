@@ -63,7 +63,7 @@ Place range shrank regularly from 1991 to 1993, and four places mentioned in 199
 4. **BRIDGE**
 The bridge is the most mentioned place type, for example, 白石桥(Baishi Bridge).
 
-####COINCIDENCE
+#### COINCIDENCE
 Additionally, as I used the Mean Coordinates tool in QGIS to explore the places, I realize the point with mean coords of all places is pretty near the hospital he was born, which is a geographical coincidence or metaphor of life and death, for this poet set were written before his suicide.
 
 The reverse geocoding shows this point is 中国儿童中心(China National Children's Center), and considering his hazy and sometimes child-like writing style, this is something even more profound.
